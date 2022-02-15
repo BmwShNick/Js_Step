@@ -31,8 +31,6 @@ const methods = {
 	},
 
 	division: (drib, dribTwo) => {
-		// let addOperation_1 = drib.znamennuk * dribTwo.chuselnuk;
-		// let addOperation_2 = dribTwo.chuselnuk * drib.znamennuk;
 		let generalChs = drib.chuselnuk * dribTwo.znamennuk;
 		let generalZn = drib.znamennuk * dribTwo.chuselnuk;
 

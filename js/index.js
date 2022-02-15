@@ -114,4 +114,4 @@ let cross = (min, max) => {
 	}
 };
 
-console.log(cross(0, 755));
+// console.log(cross(0, 755));
